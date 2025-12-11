@@ -1,0 +1,13 @@
+{
+    "levels": [
+        {
+            "name": "mychart",
+            "title": "[±0]",
+            "subtitle": "",
+            "author": "dennokop",
+            "cover": "levels/mychart/cover.jpg",
+            "bgm": "levels/mychart/bgm.mp3",
+            "data": "levels/mychart/data.json"
+        }
+    ]
+}
